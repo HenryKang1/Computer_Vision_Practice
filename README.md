@@ -8,7 +8,6 @@ Thank you for read.
 I hope I will share some simple explanation as much as I can.
 
 I also make simple blog to explain my code little bit more.
-Simple classification
 https://drkang-research.tistory.com/
 
 Utils
