@@ -7,7 +7,7 @@ I will share small 12 week lecture and how we can learn basic concept and what i
 Thank you for read.
 I hope I will share some simple explanation as much as I can.
 
-
+I also make simple blog to explain my code little bit more.
 Simple classification
 
 
