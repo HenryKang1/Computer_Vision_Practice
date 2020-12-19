@@ -12,13 +12,11 @@ import os
 import torch._utils
 import torch.nn.functional as F
 from torchvision.transforms import Normalize
+#whe we use the deep learing or any other high resolution image handling problem
+#sometimes we need to crop the image
+# of course it is degrade some result but it also some easy way to handle it just crop and merge process.
 
-
-#from mobilenet_csp2 import MobileNetV3
-from sdd_func2 import Xception
 def test_this_image(filenamee):
-
-
     path=os.getcwd()+"//test//" # base path
     test_path=path+"//Bridge_Images/" # test image path
 
@@ -29,8 +27,8 @@ def test_this_image(filenamee):
     img=cv2.imread(test_path+filenamee)
     x=4608 # image width
     y=3456 # image height
-    divx=3
-    divy=3
+    divx=3 # divide low
+    divy=3 # divide column
     j=1
     k=1
     model_list=os.listdir(model_path)
