@@ -1,6 +1,5 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
-#from selenium.webdriver import option
 from selenium.webdriver.chrome.options import Options
 
 import os
@@ -60,12 +59,5 @@ def Run():
 
     #while(True):
     #    pass
-
-import os
-path=os.getcwd()
-img_path=path+"/image/"
-if img_path is None:
-
-    os.mkdir(image)
 
 Run()
