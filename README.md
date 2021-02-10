@@ -14,6 +14,11 @@ Utils
 1. bitwise.py
 I use this file really a lot of time for visualization purpose. I usually handle the binary segmentation problem.
 Binary segmentation is the binary mask handling. This might be useful if you need to visualize your work.
+2. loss function. ipynb
+
+I strongly recommend this jupyter notebook.
+I found it from kaggle competetion and it summarize the good loss functions very well.
+
 
 Models
 
@@ -21,3 +26,7 @@ I wrote my own model testing.
 I test and get some good result I upload.
 However I test in the specific vision task not the famous public dataset.
 So I do not have pretrain weight for original dataset.
+
+Deeplab v3 plus
+Attention UNet
+MobileNetV3 Large (this is really good and fast)
