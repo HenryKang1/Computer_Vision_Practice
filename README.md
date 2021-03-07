@@ -30,3 +30,7 @@ So I do not have pretrain weight for original dataset.
 Deeplab v3 plus
 Attention UNet
 MobileNetV3 Large (this is really good and fast)
+
+Adabins test recently
+It was impressive result in the classroom.
+Still need to improve the speed of algorithm
