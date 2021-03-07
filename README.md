@@ -32,5 +32,6 @@ Attention UNet
 MobileNetV3 Large (this is really good and fast)
 
 Adabins test recently
+https://colab.research.google.com/drive/172HxX-59WaToyw994KsS705P1J65yY8y?usp=sharing
 It was impressive result in the classroom.
 Still need to improve the speed of algorithm
