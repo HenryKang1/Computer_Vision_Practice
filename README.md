@@ -2,12 +2,12 @@
 This is computer vision lecture
 
 Hello. My name is Kang.
-I am currently doing Ph.D.. I am studying the computer vision and auto damage inspection for study.
+I am currently doing Ph.D. I am studying the computer vision and auto damage inspection for study.
 I will share small 12 week lecture and how we can learn basic concept and what is important aspect for it.
 Thank you for read.
 I hope I will share some simple explanation as much as I can.
 
-Utils
+# Utils
 1. bitwise.py
 I use this file really a lot of time for visualization purpose. I usually handle the binary segmentation problem.
 Binary segmentation is the binary mask handling. This might be useful if you need to visualize your work.
@@ -28,7 +28,7 @@ This code is the how can you test your image for sliding window based classifica
 I made this for my colleague's research.
 
 
-Models
+# Models
 
 I wrote my own model.
 If I test and get some good result, I will upload.
@@ -39,7 +39,8 @@ Deeplab v3 plus
 Attention UNet
 MobileNetV3 Large (this is really good and fast)
 
-Google colab tutorial
+# Google colab tutorial
+
 I am recently make some colab tutorial which is made by other people open source code.
 I do not have any copyright about this code. Please watch out the copyright about this.
 This code is only for playground purpose.
