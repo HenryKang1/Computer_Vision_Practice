@@ -50,7 +50,7 @@ It was impressive result in the classroom.
 Still need to improve the speed of algorithm
 Salient object segmentation
 This is remove background in the image. you can try your own filter.
-
-License (Except for colab notebook)
+https://colab.research.google.com/drive/1GKML-vYymlYaiAOv1NzSB-UkG8gUfqbr?usp=sharing
+# License (Except for colab notebook)
 MIT license.
 License of colab code follows it's owner.
